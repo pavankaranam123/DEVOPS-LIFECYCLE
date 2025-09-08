@@ -1,0 +1,2 @@
+# DEVOPS-LIFECYCLE
+developing lifecycle
